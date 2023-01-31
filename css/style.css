@@ -290,7 +290,7 @@ margin-right: 5em;
 .card{
     background-color: burlywood;
     font-size: large;
-    height: 60vh;
+    height: 75vh;
 }
 
 .card-title{
@@ -301,7 +301,7 @@ margin-right: 5em;
 }
 
 .card-img-top{
-    width: 85%;
+    object-fit: contain;
     height: 50%;
     display: block;
     margin: 0 auto;

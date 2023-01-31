@@ -1,4 +1,4 @@
-# PreEntrega2-GonzalezAlayes
+# PreEntrega3-GonzalezAlayes
 PreEntrega3 del curso de Desarrollo Web de Coderhouse.
 Hola cómo estás? soy Manuel. 
 Mi proyecto es acerca de la Tierra Media de Tolkien, el contenido lo realicé en inglés a modo de práctica. 

@@ -280,8 +280,38 @@ que posee 2 filas, la superior en 1 columna unificada y la inferior dividida en 
     padding-bottom: 20px;
 }
 
+/* Bootstrap 5 aplicado a People.html para uso de Cards */
 
+.container-people{
+margin-top: 5em;
+margin-left: 5em;
+margin-right: 5em;
+}
+.card{
+    background-color: burlywood;
+    font-size: large;
+    height: 60vh;
+}
 
+.card-title{
+    text-align: center;
+    font-size: larger;
+    padding-bottom: 0.75em;
+    padding-top: 0.75em;
+}
+
+.card-img-top{
+    width: 85%;
+    height: 50%;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Bootstrap 5 aplicado a Main Characters.html para realizar Carousel */
+.carousel-item{
+    width: 85%;
+    height: 50%;
+}
 
 
 /*Responsive*/
@@ -310,7 +340,6 @@ Por lo tanto para evitar el uso de código innecesario no se emplearon breakpoin
         flex-direction: column;
         align-items: center;
     }
-        
 
 .grid-item2-authors1{
     display: flex;

@@ -213,6 +213,71 @@ que posee 2 filas, la superior en 1 columna unificada y la inferior dividida en 
     height: 200px;
 }
 
+/* Grid del html Cities */
+.grid-container-cities {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(5, auto);
+}
+
+.grid-item1-cities-humans {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 75px;
+    margin-left: 75px;    
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.grid-item2-cities-elves {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 75px;
+    margin-left: 75px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.grid-item3-cities-evil {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 75px;
+    margin-left: 75px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.grid-item4-cities-dwarves {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 75px;
+    margin-left: 75px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.grid-item5-cities-hobbits{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.grid-cities-img {
+    width: 25vw;
+    height: 25vh;
+    border-radius: 20px;
+    padding-bottom: 15px;
+}
+
+
+
+
 
 /*Responsive*/
 /*responsive de index*/

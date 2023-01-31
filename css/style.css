@@ -228,6 +228,7 @@ que posee 2 filas, la superior en 1 columna unificada y la inferior dividida en 
     margin-left: 75px;    
     margin-top: 100px;
     margin-bottom: 100px;
+    text-align: center;
 }
 
 .grid-item2-cities-elves {
@@ -238,6 +239,7 @@ que posee 2 filas, la superior en 1 columna unificada y la inferior dividida en 
     margin-left: 75px;
     margin-top: 100px;
     margin-bottom: 100px;
+    text-align: center;
 }
 
 .grid-item3-cities-evil {
@@ -248,6 +250,7 @@ que posee 2 filas, la superior en 1 columna unificada y la inferior dividida en 
     margin-left: 75px;
     margin-top: 100px;
     margin-bottom: 100px;
+    text-align: center;
 }
 
 .grid-item4-cities-dwarves {
@@ -258,6 +261,7 @@ que posee 2 filas, la superior en 1 columna unificada y la inferior dividida en 
     margin-left: 75px;
     margin-top: 100px;
     margin-bottom: 100px;
+    text-align: center;
 }
 
 .grid-item5-cities-hobbits{
@@ -266,13 +270,14 @@ que posee 2 filas, la superior en 1 columna unificada y la inferior dividida en 
     align-items: center;
     margin-top: 100px;
     margin-bottom: 100px;
+    text-align: center;
 }
 
 .grid-cities-img {
     width: 25vw;
     height: 25vh;
     border-radius: 20px;
-    padding-bottom: 15px;
+    padding-bottom: 20px;
 }
 
 
